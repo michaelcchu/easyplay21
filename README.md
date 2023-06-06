@@ -1,4 +1,4 @@
-# easyplay19
+# easyplay21
 
 Note: if you are on phone or tablet, make sure your ringer is on / 
 you are not on silent mode!
@@ -40,7 +40,7 @@ we imagine that in the future, most people will play music with tapper-like prog
 
 what next?
 
-try the [website](https://mcchu.com/easyplay17/) and/or see [demonstrations](https://www.youtube.com/playlist?list=PLB1dz46HEVoSqZvxaY-xkh17CvYgUGq3F); it can be fun! :)
+try the [website](https://mcchu.com/easyplay21/) and/or see [demonstrations](https://www.youtube.com/playlist?list=PLB1dz46HEVoSqZvxaY-xkh17CvYgUGq3F); it can be fun! :)
 
 similar to:
 
