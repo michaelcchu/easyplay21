@@ -1,6 +1,7 @@
 .top {grid-area: top; min-width:0px;}
 .middle {grid-area: middle; min-width:0px;}
 .bottom {grid-area: bottom;}
+.bottom2 {grid-area: bottom2;}
 .footer {
     grid-area: footer; 
     background-color: #EBEBEB;
@@ -14,8 +15,9 @@
         "top"
         "middle"
         "bottom"
+        "bottom2"
         "footer";
-    grid-template-rows: auto auto auto 1fr;
+    grid-template-rows: auto auto auto auto 1fr;
     grid-template-columns: auto;
     grid-gap: 8px;
 }
